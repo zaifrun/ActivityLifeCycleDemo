@@ -6,7 +6,7 @@ import android.app.Activity;
 
 public class MainActivity extends Activity {
 	
-	private final String TAG = "ActivityLifeCycle";
+	private final String TAG = "DebugInfo";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
