@@ -2,9 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.iducate.activitylifecycledemo.test">
 
-    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" />
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
